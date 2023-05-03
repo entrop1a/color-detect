@@ -1,2 +1,3 @@
 # color-detect
-Software de visão computacional desenvolvido para a detecção de objetos de cor específica.
+Software baseado em OpenCV, na linguagem de programação C++.
+Este programa obtém a área e a posição central de um objeto de cor específica.
