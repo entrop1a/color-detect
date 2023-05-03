@@ -1,5 +1,5 @@
 /*
-*	Objetivo: Desenvolver um programa que detecte um objeto de cor vermelha
+*	Objetivo: Desenvolver um software que detecte um objeto de cor vermelha
 *	e determinar sua área e sua posição no plano da imagem.
 *
 *	Arquivo: color_detect.cpp
