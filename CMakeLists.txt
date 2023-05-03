@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project(color_detect)
-set(OpenCV_DIR "/home/entropia/build")
-find_package(OpenCV REQUIRED)
-include_directories(${OpenCV_INCLUDE_DIR})
-add_executable(color_detect color_detect.cpp)
-target_link_libraries(color_detect ${OpenCV_LIBS})
